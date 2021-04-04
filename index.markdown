@@ -8,4 +8,6 @@ nav_order: 1
 permalink: /
 ---
 
-This is where
+# Introduction
+
+This documentation will give you all of the information you need to get started with your next-generation gaming console.
