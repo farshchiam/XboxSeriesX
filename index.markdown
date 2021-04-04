@@ -18,7 +18,7 @@ Your Xbox Series X console will introduce you to the world of next-generation ga
 
 # Description of Included Equipment
 
-Equipment here
+![alt text](assets\images\img-1471.jpg "Logo Title Text 1")
 
 # Installation Instructions
 
