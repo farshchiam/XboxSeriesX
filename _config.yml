@@ -23,7 +23,7 @@ email: amfarshchi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Instructions on how to set up and use your Xbox Series X for the
   for the first time.
-baseurl: "/xboxseriesx" # the subpath of your site, e.g. /blog
+#baseurl: "/xboxseriesx" # the subpath of your site, e.g. /blog
 #url: "https://farshchiam.github.io/xboxseriesx" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  farshchiam
