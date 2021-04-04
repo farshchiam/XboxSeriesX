@@ -18,9 +18,23 @@ Your Xbox Series X console will introduce you to the world of next-generation ga
 
 # Description of Included Equipment
 
-![alt text](assets\images\img-1471.jpg "Logo Title Text 1")
+![alt text](assets\images\img-1471.jpg "Equipment")
+
+1. Wireless Controller- controls your console
+2. Two AA Batteries- powers wireless controller
+3. Power Cord- connects to power outlet
+4. HDMI Cable- provides video and audio output
+5. Xbox Series X Console
+
 
 # Installation Instructions
+
+1. Connect the provided power cord **(3)** to the power port on the back side of your console.
+2. Connect the other end of the power cord **(3)** to the nearest power outlet.
+3. Connect the provided HDMI cable **(4)** to the HDMI port on the back side of your console.
+4. Connect the other end of the HDMI cable **(4)** to your TV or monitor’s HDMI port.
+5. Insert Two AA Batteries **(2)** into your Wireless Controller **(1)**. Slide the backplate of the controller up to access the battery compartment.
+
 
 # FAQ
 
@@ -28,4 +42,4 @@ Your Xbox Series X console will introduce you to the world of next-generation ga
 
 # What's Next?
 
-Ready to start gaming? Check out the `Playing Your First Game` section located on the sidebar or click [here](https://farshchiam.github.io/XboxSeriesX/gaming).
+Ready to start gaming? Check out the _Playing Your First Game_ section located on the sidebar or click [here](https://farshchiam.github.io/XboxSeriesX/gaming).
