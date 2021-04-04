@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Test2
+nav_order: 4
 permalink: /test2/
 ---
 
