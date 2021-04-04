@@ -44,17 +44,28 @@ ___
 
 # FAQ
 
+_Does the Xbox Series X require an Internet Connection?_
+An internet connection will be required for initial setup of the console. This is to ensure that your console gets the latest updates from Microsoft.
+
+_What is the difference between the Xbox Series X and Xbox Series S?_
+While both being next-generation consoles, the Series X and Series S consoles are designed differently and provide different features.
+
+Differences include:
+
+Xbox Series X | Xbox Series S
+--- | ---
+4K Gaming Capability | 1440P Gaming Capability
+4K Blu-ray Drive for Game Discs and Movies | Not Included
+1TB of Storage | 512GB of Storage
 
 ___
 
 # Troubleshooting
 
+For troubleshooting and support, please visit [xbox.com/support](https://xbox.com/support).
 
 ___
 
 # What's Next?
-
-
-___
 
 Ready to start gaming? Check out the _Playing Your First Game_ section located on the sidebar or click [here](https://farshchiam.github.io/XboxSeriesX/gaming).
