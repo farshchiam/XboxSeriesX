@@ -25,3 +25,7 @@ Equipment here
 # FAQ
 
 # Troubleshooting
+
+# What's Next?
+
+Ready to start gaming? Check out the `Playing Your First Game` section located on the sidebar or click [here](https://farshchiam.github.io/XboxSeriesX/gaming).

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About
+title: Playing Your First Game
 nav_order: 2
-permalink: /about/
+permalink: /gaming/
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
