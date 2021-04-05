@@ -14,13 +14,13 @@ This documentation will give you all of the information you need to get started 
 
 ___
 
-# About
+## About
 
 Your Xbox Series X console will introduce you to the world of next-generation gaming. Enjoy the latest games and Microsoft exclusives in stunning 4k resolution with a maximum of 8k resolution at 120 frames per second. When you are done gaming, enjoy the latest entertainment with hundreds of downloadable applications (internet connection required).
 
 ___
 
-# Description of Included Equipment
+## Description of Included Equipment
 
 ![alt text](assets\images\img-1471.jpg "Equipment")
 
@@ -32,7 +32,7 @@ ___
 
 ___
 
-# Installation Instructions
+## Installation Instructions
 
 1. Connect the provided power cord **(3)** to the power port on the back side of your console.
 2. Connect the other end of the power cord **(3)** to the nearest power outlet.
@@ -42,7 +42,7 @@ ___
 
 ___
 
-# FAQ
+## FAQ
 
 _Does the Xbox Series X require an Internet Connection?_
 An internet connection will be required for initial setup of the console. This is to ensure that your console gets the latest updates from Microsoft.
@@ -60,12 +60,12 @@ Xbox Series X | Xbox Series S
 
 ___
 
-# Troubleshooting
+## Troubleshooting
 
 For troubleshooting and support, please visit [xbox.com/support](https://xbox.com/support).
 
 ___
 
-# What's Next?
+## What's Next?
 
 Ready to start gaming? Check out the _Playing Your First Game_ section located on the sidebar or click [here](https://farshchiam.github.io/XboxSeriesX/gaming).
