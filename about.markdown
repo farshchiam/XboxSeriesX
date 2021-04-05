@@ -9,10 +9,14 @@ permalink: /gaming/
 
 Is your new console installed (installation instructions [here](https://farshchiam.github.io/XboxSeriesX/#installation-instructions)) and are you ready to game?
 
+___
+
 ## Turning on the Console
 
 1. Simply hold the middle button on your controller for approximately 3 seconds until you see it light up.
 2. You should now see the console light up and turn on as well.
+
+___
 
 ## Installing Your Game
 
@@ -27,6 +31,8 @@ Is your new console installed (installation instructions [here](https://farshchi
 3. After selecting your game of choice, select the `Purchase` option.
 4. Follow the on-screen instructions where you will be asked to insert your payment method.
 5. Your game will automatically begin to install after successfully purchasing your game.
+
+___
 
 # Playing Your Game
 1. Tap the middle button of your controller.
