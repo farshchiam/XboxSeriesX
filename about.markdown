@@ -34,7 +34,7 @@ ___
 
 ___
 
-# Playing Your Game
+## Playing Your Game
 1. Tap the middle button of your controller.
 2. Locate and select the `My Games & Apps` option.
 3. Simply select the newly installed game from your personalized list.
