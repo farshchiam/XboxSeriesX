@@ -39,6 +39,8 @@ ___
 ___
 
 ## Playing Your Game
+
+![alt text](..\assets\images\games.jpg "My Games & Apps")
 1. Tap the middle button of your controller.
 2. Locate and select the `My Games & Apps` option.
 3. Simply select the newly installed game from your personalized list.
