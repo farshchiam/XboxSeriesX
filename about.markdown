@@ -13,7 +13,9 @@ ___
 
 ## Turning on the Console
 
-1. Simply hold the middle button on your controller for approximately 3 seconds until you see it light up.
+![alt text](assets\images\xboxcontroller.png "Controller")
+
+1. Simply hold the middle button on your controller **(4)** for approximately 3 seconds until you see it light up.
 2. You should now see the console light up and turn on as well.
 
 ___
@@ -26,6 +28,8 @@ ___
 2. You will see a notification when your disc has begun installing necessary files and when it is complete.
 
 ### Option 2: Using the Xbox Store (digital)
+
+![alt text](assets\images\xbox-store.png "Store")
 1. Using your controller, locate and select the `store` section of the main menu.
 2. Choose from thousands of games, by searching for a specific title or by using categories.
 3. After selecting your game of choice, select the `Purchase` option.
